@@ -1,6 +1,7 @@
 import "./App.css";
 import Title from "./components/title/title";
-import Setup from "./examples/3-post-request";
+import Setup from "./examples/4-global-instance";
+import "./axios/global";
 
 function App() {
   return (
