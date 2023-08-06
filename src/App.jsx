@@ -1,6 +1,6 @@
 import "./App.css";
 import Title from "./components/title/title";
-import Setup from "./examples/5-custom-instance";
+import Setup from "./examples/6-interceptors";
 
 function App() {
   return (
