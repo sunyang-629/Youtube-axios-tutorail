@@ -1,6 +1,6 @@
 import "./App.css";
 import Title from "./components/title/title";
-import Setup from "./examples/2-headers";
+import Setup from "./examples/3-post-request";
 
 function App() {
   return (
